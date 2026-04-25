@@ -2,7 +2,7 @@
   "name": "AFK Bot",
   "bot-account": {
     "username": "Random123",
-    "password": "",
+    "password": "13579",
     "type": "offline"
   },
   "server": {
@@ -19,8 +19,8 @@
   },
   "utils": {
     "auto-auth": {
-      "enabled": false,
-      "password": "chalol78"
+      "enabled": true,
+      "password": "13579"
     },
     "anti-afk": {
       "enabled": true,
@@ -29,11 +29,11 @@
     "chat-messages": {
       "enabled": true,
       "repeat": true,
-      "repeat-delay": 1,
+      "repeat-delay": 120,
       "messages": [
-        "/register 13579 13579",
-        "/register 13579 13579",
-        "/login 13579"
+        "bot",
+        "botting",
+        "bottinging"
       ]
     },
     "chat-log": true,
