@@ -31,9 +31,9 @@
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "AFKING",
-        "AFK BOT",
-        "BOT"
+        "/register 13579 13579",
+        "/register 13579 13579",
+        "/login 13579"
       ]
     },
     "chat-log": true,
