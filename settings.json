@@ -29,7 +29,7 @@
     "chat-messages": {
       "enabled": true,
       "repeat": true,
-      "repeat-delay": 120,
+      "repeat-delay": 1,
       "messages": [
         "/register 13579 13579",
         "/register 13579 13579",
