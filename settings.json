@@ -31,9 +31,9 @@
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "bot",
-        "botting",
-        "bottinging"
+        "/login 13579",
+        "/login 13579",
+        "/login 13579"
       ]
     },
     "chat-log": true,
