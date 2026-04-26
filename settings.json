@@ -9,7 +9,7 @@
     "ip": "jussumsurvival.mcsh.io",
     "port": 25565,
     "version": "",
-    "try-creative": false
+    "try-creative": true
   },
   "position": {
     "enabled": true,
